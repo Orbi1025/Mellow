@@ -93,7 +93,7 @@
                   children: "Tokenomics",
                 }),
                 (0, o.jsx)("a", {
-                  href: "https://mememaker.furiesmellow0x69.com",
+                  href: "https://mememaker.furiesmellow.vip",
                   target: "_blank",
                   className: "none md:block rounded-full",
                   children: "Meme Maker",
@@ -273,7 +273,7 @@
       r(2265),
         (t.default = () =>
           (0, o.jsx)("a", {
-            href: "https://x.com/Mellow_furies",
+            href: "https://t.me/Mellow_furies",
             target: "_blank",
             children: (0, o.jsx)(s.JO, {
               icon: "akar-icons:telegram-fill",
@@ -392,7 +392,7 @@
               children: [
                 (0, o.jsx)(a.A, {
                   size: "lg",
-                  href: "https://mememaker.furiesmellow0x69.com/",
+                  href: "https://mememaker.furiesmellow.vip/",
                   as: n.O,
                   target: "_blank",
                   color: "default",
@@ -489,13 +489,13 @@
                 (0, o.jsx)(a.A, {
                   onPress: () => {
                     window.open(
-                      "https://mememaker.furiesmellow0x69.com/",
+                      "https://mememaker.furiesmellow.vip/",
                       "_blank"
                     );
                   },
                   size: "sm",
                   color: "default",
-                  href: "https://mememaker.furiesmellow0x69.com/",
+                  href: "https://mememaker.furiesmellow.vip/",
                   as: n.O,
                   target: "_blank",
                   radius: "full",
