@@ -423,7 +423,7 @@
               src: r,
               unoptimized: n,
               width: o,
-              quality: i,
+              quality: i, 
               sizes: a,
               loader: s,
             } = e;
