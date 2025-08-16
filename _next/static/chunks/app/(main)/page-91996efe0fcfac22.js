@@ -273,7 +273,7 @@
       r(2265),
         (t.default = () =>
           (0, o.jsx)("a", {
-            href: "https://t.me/Mellow_furies",
+            href: "https://t.me/MellowFuries",
             target: "_blank",
             children: (0, o.jsx)(s.JO, {
               icon: "akar-icons:telegram-fill",
@@ -288,7 +288,7 @@
       r(2265),
         (t.default = () =>
           (0, o.jsx)("a", {
-            href: "https://x.com/Mellow_furies",
+            href: "https://x.com/MellowFuries",
             target: "_blank",
             children: (0, o.jsx)(s.JO, {
               icon: "akar-icons:twitter-fill",
@@ -438,13 +438,13 @@
                             {
                               onPress: () => {
                                 window.open(
-                                  "https://t.me/Mellow_furies",
+                                  "https://t.me/MellowFuries",
                                   "_blank"
                                 );
                               },
                               className: "text-default-foreground",
                               description: "Join our TG Community",
-                              href: "https://t.me/Mellow_furies",
+                              href: "https://t.me/MellowFuries",
                               as: n.O,
                               target: "_blank",
                               startContent: (0, o.jsx)(m.JO, {
@@ -540,13 +540,13 @@
                             {
                               onPress: () => {
                                 window.open(
-                                  "https://t.me/Mellow_furies",
+                                  "https://t.me/MellowFuries",
                                   "_blank"
                                 );
                               },
                               className: "text-default-foreground",
                               description: "Join our TG Community",
-                              href: "https://t.me/Mellow_furies",
+                              href: "https://t.me/MellowFuries",
                               as: n.O,
                               target: "_blank",
                               startContent: (0, o.jsx)(m.JO, {
