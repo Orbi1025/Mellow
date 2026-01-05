@@ -190,7 +190,7 @@
             children: [
               (0, o.jsx)(n.A, {
                 size: "lg",
-                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                 as: d.default,
                 target: "_blank",
                 color: "default",
@@ -204,14 +204,14 @@
                 children: [
                   (0, o.jsx)("p", {
                     className: "overflow-hidden text-nowrap text-ellipsis",
-                    children: "0xcomingsoon",
+                    children: "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                   }),
                   (0, o.jsx)(l.JO, {
                     icon: "lucide:copy",
                     className: "cursor-pointer",
                     onClick: () => {
                       navigator.clipboard.writeText(
-                        "0xcomingsoon"
+                        "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77"
                       ),
                         i.Am.info("Copied Address to clipboard");
                     },
@@ -248,14 +248,14 @@
                 children: [
                   (0, o.jsx)("p", {
                     className: "overflow-hidden text-nowrap text-ellipsis",
-                    children: "0xcomingsoon",
+                    children: "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                   }),
                   (0, o.jsx)(n.JO, {
                     icon: "lucide:copy",
                     className: "cursor-pointer",
                     onClick: () => {
                       navigator.clipboard.writeText(
-                        "0xcomingsoon"
+                        "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77"
                       ),
                         l.Am.info("Copied Address to clipboard");
                     },
@@ -459,12 +459,12 @@
                             {
                               onPress: () => {
                                 window.open(
-                                  "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                  "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                                   "_blank"
                                 );
                               },
                               description: "Buy on Uniswap",
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                               as: n.O,
                               target: "_blank",
                               className: "text-default-foreground",
@@ -561,12 +561,12 @@
                             {
                               onPress: () => {
                                 window.open(
-                                  "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                                  "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                                   "_blank"
                                 );
                               },
                               description: "Buy on Uniswap",
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                               as: n.O,
                               target: "_blank",
                               className: "text-default-foreground",
@@ -1086,7 +1086,7 @@
                   (0, o.jsx)("p", {
                     className:
                       "overflow-hidden text-nowrap max-[600px]:w-[70%] text-ellipsis value max-[600px]:ml-[1rem] font-bold text-[1rem] text-default-foreground",
-                    children: "0xcomingsoon",
+                    children: "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                   }),
                   (0, o.jsx)(n.JO, {
                     icon: "lucide:copy",
@@ -1094,7 +1094,7 @@
                       "text-default-foreground cursor-pointer hover:text-default-foreground/50",
                     onClick: () => {
                       navigator.clipboard.writeText(
-                        "0xcomingsoon"
+                        "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77"
                       ),
                         l.Am.info("Copied Address to clipboard");
                     },
@@ -1132,7 +1132,7 @@
                   (0, o.jsx)("p", {
                     className:
                       "overflow-hidden text-nowrap text-ellipsis text-default-foreground",
-                    children: "0xcomingsoon",
+                    children: "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77",
                   }),
                   (0, o.jsx)(n.JO, {
                     icon: "lucide:copy",
@@ -1140,7 +1140,7 @@
                       "text-default-foreground cursor-pointer hover:text-default-foreground/50",
                     onClick: () => {
                       navigator.clipboard.writeText(
-                        "0xcomingsoon"
+                        "0x34Bdfb997bCAbc8D93BD60f6e59B72cb4B8c6C77"
                       ),
                         l.Am.info("Copied Address to clipboard");
                     },
